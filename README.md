@@ -5,9 +5,9 @@
                 <div aria-labelledby="docs-ml-promotion-aria-label" style="font-family: Arial, Helvetica, sans-serif;">
                     <div>
                         <div>
-                            <div style="color: rgba(0, 0, 0, 0.87);font-size: 16px;"><strong>_________________________________________</strong></div>
+                            <div style="color: rgba(0, 0, 0, 0.87);font-size: 16px;"><strong>____________________________________</strong></div>
                             <p><strong>By: Ateeqbloch, Mon, Apr 21, (2025)</strong></p>
-                            <p><strong>_________________________________________</strong></p>
+                            <p><strong>____________________________________</strong></p>
                         </div>
                     </div>
                 </div>
